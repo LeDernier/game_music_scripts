@@ -12,10 +12,6 @@ The scripts you can find in this repository were used for the following video ga
 
 Clone or download the project and unzip it. All the .txt files are music scripts that you can load and use with Sonic Pi.
 
-## Using and Extending
-
-The lib folder contains several python files you may want to extend, especially, utils.py and inSimulationUtils.py.
-
 ## License
 
 This project is licensed under the Unlicense - see the [LICENSE](LICENSE) file for details. Some of the scripts are largely inspired from [Sam Aaron](https://github.com/samaaron)'s example scripts distributed under the [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) license.
