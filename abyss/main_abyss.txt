@@ -1,4 +1,4 @@
-# Ocean Ambiance
+# Abyss Ambiance
 
 # Coded by Rémi Monthiller
 # Adapted from Sam Aaron examples.
