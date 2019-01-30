@@ -1,3 +1,7 @@
+# Creepy Abyss
+
+# Coded by Rémi Monthiller
+# Adapted from Sam Aaron examples.
 
 use_debug false
 
