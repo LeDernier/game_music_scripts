@@ -7,6 +7,7 @@ The aim of this repository is to help people that may need some more examples to
 The scripts you can find in this repository were used for the following video games :
 
 * [Abyss](https://7fault.itch.io/abyss)
+* [Bubble Hell](https://7fault.itch.io/bubble-hell)
 
 ## Getting Started
 
